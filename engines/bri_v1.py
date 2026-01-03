@@ -63,3 +63,4 @@ def execute_bri_v1(invoice: Invoice, buyer: Buyer) -> BRIResult:
         }
     )
 
+

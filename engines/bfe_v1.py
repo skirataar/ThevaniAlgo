@@ -71,3 +71,4 @@ def execute_bfe_v1(invoice: Invoice, buyer: Buyer, existing_exposure: float = 0.
         }
     )
 
+

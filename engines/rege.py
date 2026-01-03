@@ -18,3 +18,4 @@ def execute_rege(invoice: Invoice, buyer: Buyer) -> EngineResult:
         details={"status": "NO-OP"}
     )
 
+

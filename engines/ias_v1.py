@@ -89,3 +89,4 @@ def execute_ias_v1(invoice: Invoice, buyer: Buyer) -> IASResult:
         details={"checks_performed": len(validation_checks)}
     )
 
+
